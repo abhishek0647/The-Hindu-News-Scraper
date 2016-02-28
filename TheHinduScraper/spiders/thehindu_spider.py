@@ -1,3 +1,7 @@
+#
+# @author: Abhishek Kumar
+#
+
 import scrapy
 from TheHinduScraper.items import TheHinduItem
 
